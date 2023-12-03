@@ -10,4 +10,4 @@ JavaScript:
    Implement error handling for invalid inputs or failed API requests
 
 <img width="959" alt="ss1" src="https://github.com/kavitha-peddagamalla/weather-website/blob/main/index.png">
-<img width="416" alt="ss2" src="https://github.com/AnilKumar-10/Weather-Website/assets/141443915/3507d444-3acb-4ef4-8b11-36e85d89880c">
+<img width="416" alt="ss2" src="https://github.com/kavitha-peddagamalla/weather-website/blob/main/report.png">
